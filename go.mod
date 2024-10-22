@@ -1,4 +1,4 @@
-module github.com/deepflowio/tempopb
+module github.com/khulnasoft/tempopb
 
 go 1.18
 

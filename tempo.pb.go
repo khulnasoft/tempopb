@@ -6,7 +6,7 @@ package tempopb
 import (
 	context "context"
 	fmt "fmt"
-	v1 "github.com/deepflowio/tempopb/trace/v1"
+	v1 "github.com/khulnasoft/tempopb/trace/v1"
 	_ "github.com/gogo/protobuf/gogoproto"
 	proto "github.com/gogo/protobuf/proto"
 	grpc "google.golang.org/grpc"

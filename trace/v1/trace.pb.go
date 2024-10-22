@@ -6,8 +6,8 @@ package v1
 import (
 	encoding_binary "encoding/binary"
 	fmt "fmt"
-	v11 "github.com/deepflowio/tempopb/common/v1"
-	v1 "github.com/deepflowio/tempopb/resource/v1"
+	v11 "github.com/khulnasoft/tempopb/common/v1"
+	v1 "github.com/khulnasoft/tempopb/resource/v1"
 	proto "github.com/gogo/protobuf/proto"
 	io "io"
 	math "math"

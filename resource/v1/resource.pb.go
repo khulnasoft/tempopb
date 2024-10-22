@@ -5,7 +5,7 @@ package v1
 
 import (
 	fmt "fmt"
-	v1 "github.com/deepflowio/tempopb/common/v1"
+	v1 "github.com/khulnasoft/tempopb/common/v1"
 	proto "github.com/gogo/protobuf/proto"
 	io "io"
 	math "math"
